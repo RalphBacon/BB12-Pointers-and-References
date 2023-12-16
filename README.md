@@ -2,7 +2,7 @@
 ### Or, why you don't need to use pointers in Arduinoland
 ![BB12 Thumbnail (Phone)](https://github.com/RalphBacon/BB12-Pointers-and-References-in-C-/assets/20911308/df3d0937-c9e8-4c77-9ca4-00efe74fbb33)
 
-### Video link: https://youtu.be/NJV5g5njHDY  
+### Video link: [https://youtu.be/jdQaaFNpM_4](https://youtu.be/jdQaaFNpM_4)  
 <br>  
 
 [![Flex PCBs Special Offer](https://user-images.githubusercontent.com/20911308/226928395-0f7add24-e5ca-4b13-a819-d330ae9f5f77.gif "PCBWay - up to 60% off Flex/Rigid PCBs")](https://pcbway.com/)  
